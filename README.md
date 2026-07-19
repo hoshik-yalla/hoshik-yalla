@@ -86,3 +86,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
+
+<a href="https://heatmap.shymike.dev?id=22444&timezone=America%2FChicago&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=22444&timezone=America%2FChicago&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=22444&timezone=America%2FChicago&theme=light">
+    </picture>
+</a>
